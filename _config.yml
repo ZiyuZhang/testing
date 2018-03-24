@@ -3,6 +3,6 @@ description: I want to try out some functions on github pages.
 
 show_downloads: false
 github:
-  public: false
+  is_project_page: false
   
-theme: jekyll-theme-tactile
+theme: jekyll-theme-leap-day
