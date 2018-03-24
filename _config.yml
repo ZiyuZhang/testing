@@ -1,4 +1,6 @@
 title: my testing page
 description: I want to try out some functions on github pages.
 theme: jekyll-theme-cayman
-show_downloads: true
+show_downloads: false
+github:
+  is_project_page: false
