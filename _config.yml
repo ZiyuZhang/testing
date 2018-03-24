@@ -1,4 +1,8 @@
 title: my testing page
 description: I want to try out some functions on github pages.
 
-remote_theme: mmistakes/skinny-bones-jekyll
+show_downloads: false
+github:
+  is_project_page: false
+  
+theme: tactile
