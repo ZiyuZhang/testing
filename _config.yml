@@ -1,8 +1,6 @@
 title: my testing page
 description: I want to try out some functions on github pages.
 
-plugins:
-  - jekyll-remote-theme
 remote_theme: mmistakes/minimal-mistakes
 
 show_downloads: false
