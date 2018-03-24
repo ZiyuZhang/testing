@@ -5,4 +5,4 @@ show_downloads: false
 github:
   is_project_page: false
   
-theme: tactile
+theme: jekyll-theme-tactile
