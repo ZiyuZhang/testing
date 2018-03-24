@@ -1,4 +1,4 @@
 title: my testing page
 description: I want to try out some functions on github pages.
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: daattali/beautiful-jekyll
