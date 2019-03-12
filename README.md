@@ -6,6 +6,6 @@ standard themes:
 * cayman
 * modernist
 
-remote themes
+remote themes:
 * mmistakes/so-simple-theme
 * janczizikow/sleek: looks good on Chrome, something is wrong on Safari
