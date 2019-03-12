@@ -8,4 +8,4 @@ standard themes:
 
 remote themes:
 * mmistakes/so-simple-theme
-* janczizikow/sleek: looks good on Chrome, something is wrong on Safari
+* janczizikow/sleek
